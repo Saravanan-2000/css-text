@@ -1,0 +1,182 @@
+body{
+	background-color:slategrey;
+}
+th {
+	text-align:center;
+}
+p.aa{
+	text-align:justify;
+	letter-spacing:3px;
+}
+a{
+	color:#008CBA;
+}
+div{
+	color:blue;
+}
+h1{
+	background-color:black;
+    color:white;
+}
+#p1{
+	background-color:blue;
+    color:white;
+}
+h2{
+	text-align:center;
+}
+h3 {
+	text-align:left;
+}
+h4{
+	text-align:right;
+	
+	
+}
+.p1{
+	text-align-last:right;
+}
+.p2{
+	text-align-last:center;
+}
+.p3{
+	text-align-last:justify;
+}
+p.a {
+	direction:rtl;
+    unicode-bidi:bidi-override;
+}
+span{
+	background:blue;
+	vertical-align:super;
+}
+span.b{
+	background:blue;
+	vertical-align:sub;
+}
+span.c{
+	background:blue;
+	vertical-align:text-top;
+}
+span.d{
+	background:blue;
+	vertical-align:text-bottom;
+}
+span.e{
+	background:blue;
+	vertical-align:1cm;
+}
+p.f{
+	text-decoration:overline;
+}
+h2.g{
+	text-decoration:line-through;
+}
+h3.h{
+	text-decoration:underline;
+}
+p.i{
+	text-decoration:overline underline;
+}
+p.j{
+	text-decoration-line:overline;
+	text-decoration-color:red;
+}
+p.k{
+	text-decoration-line:line-through;
+	text-decoration-color:yellow;
+}
+p.l{
+	text-decoration-line:underline;
+	text-decoration-color:green;
+}
+p.m{
+	text-decoration-line:overline underline;
+	text-decoration-color:purple;
+}
+p.n{
+	text-decoration-line: underline;
+    text-decoration-style: solid
+}
+p.o{
+	 text-decoration-line: underline;
+  text-decoration-style: double;
+}
+p.p{
+	text-decoration-line: underline;
+  text-decoration-style: dotted;  
+}
+p.q{
+	text-decoration-line: underline;
+  text-decoration-style: dashed;  
+}
+p.r{
+	text-decoration-line: underline;
+  text-decoration-style: wavy;  
+}
+p.s{
+	 text-decoration-line: underline;
+  text-decoration-color: red;  
+  text-decoration-style: wavy;  
+}
+p.t{
+	 text-decoration-line: underline;
+     text-decoration-thickness:auto;
+}
+p.u{
+	text-decoration-line: underline;
+    text-decoration-thickness: 5px;
+}
+p.v{
+	text-decoration-line: underline;
+     text-decoration-thickness: 25%;
+}
+p.w{
+	 text-decoration-line: underline;
+  text-decoration-color: red;  
+  text-decoration-style: double;
+  text-decoration-thickness: 5px;  
+}
+p.x{
+	 text-transform: uppercase;
+}
+p.y{
+	 text-transform: lowercase;
+}
+p.z{
+	text-transform: capitalize;
+}
+p.ab{
+	text-indent: 50px;
+}
+p.ab1{
+	  letter-spacing: 5px;
+}
+p.ab2{
+	 letter-spacing: -2px;
+}
+p.small{
+	  line-height: 0.7;
+}
+p.big{
+	 line-height: 1.8;
+}
+p.one{
+	word-spacing: 10px;
+}
+p.two{
+	 word-spacing: -2px;
+}
+p.pp{
+	  white-space: nowrap;
+}
+p.sk{
+	  text-shadow: 2px 2px;
+}
+p.sk1{
+	 text-shadow: 2px 2px red;
+}
+p.sk2{
+	text-shadow: 2px 2px 5px red;
+}
+	
